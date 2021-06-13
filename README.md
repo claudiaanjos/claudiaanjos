@@ -8,8 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&hide=contribs,prs&theme=dracula" alt="claudiaanjos" height="165" width="420"/>
 </p>
 <br>
-<hr>
-<br>
+
 <h3 align="center">Skills</h3>
 <br>
 <p align="center">
