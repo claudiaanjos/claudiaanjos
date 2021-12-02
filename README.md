@@ -9,8 +9,13 @@
 </p>
 <br>
 
+<h3 align="center">Certificações</h3>
+<div align="center">
+    <img src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
+</div>
 <h3 align="center">Skills</h3>
 <br>
+
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
