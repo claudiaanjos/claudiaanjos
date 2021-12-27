@@ -55,3 +55,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+  
+ <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=claudiaanjos&theme=react-dark&area=true&hide_border=true" alt="claudiaanjos" height="565" width="820"/>
+</p>
