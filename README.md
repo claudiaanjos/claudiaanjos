@@ -54,6 +54,4 @@
         <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-   nogueira-dos-anjos-093407180/">
     </a>
 </p>
- <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=claudiaanjos&theme=react-dark&area=true&hide_border=true" alt="claudiaanjos" height="565" width="820"/>
-</p>
+
