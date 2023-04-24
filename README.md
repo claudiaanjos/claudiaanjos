@@ -1,6 +1,15 @@
-<h2 align="center">
-    Olá! Eu sou a Claudia! 
-</h2>
+<p align="center">
+   Olá, seja bem-vindo(a) ao meu perfil no GitHub! 💻 
+<p align="center">
+   Meu nome é Claudia e sou apaixonada por dados 📈. 
+<p align="center">
+   Aqui você encontrará diversos projetos  voltados para essa área, incluindo análises exploratórias, modelos de machine learning e visualizações de dados.
+<p align="center">
+Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. 
+    Atualmente, estou software engineer, buscando sempre novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
+<p align="center">
+Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato! 🤝 
+</p>
 <br>
 
 <p align="center">
@@ -21,11 +30,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img height="40" src="https://spark.apache.org/images/spark-logo-trademark.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
