@@ -1,5 +1,5 @@
 <p align="center">
-   Olá, seja bem-vindo(a) ao meu perfil no GitHub! 💻 
+   Olá, seja bem-vindo(a) ao meu perfil no GitHub! 
 <p align="center">
    Meu nome é Claudia e sou apaixonada por dados 📈. 
 <p align="center">
