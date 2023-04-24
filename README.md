@@ -12,11 +12,6 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 </p>
 <br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula" alt="claudiaanjos" height="165" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaanjos&layout=compact&langs_count=16&theme=dracula&hide=Jupyter%20Notebook,Shell,Handlebars" alt="claudiaanjos" height="165" width="420"/>
-</p>
-<br>
 
 <h3 align="center">Certificações</h3>
 <div align="center">
