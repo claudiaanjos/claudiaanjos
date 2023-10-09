@@ -5,7 +5,8 @@
 <p align="center">
    Aqui você encontrará diversos projetos voltados para essa área, incluindo análises exploratórias, modelos de machine learning e visualizações de dados.
 <p align="center">
-Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. 
+Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/Cursos/blob/main/README.md">nesse repositório</a>.
+
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
 <p align="center">
 Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato! 🤝 
