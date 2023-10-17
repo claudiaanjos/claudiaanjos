@@ -13,7 +13,6 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 </p>
 <br>
 
-
 <h3 align="center">Certificações</h3>
 <div align="center">
     <img src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
@@ -33,6 +32,12 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</p>
+<br>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="claudiaanjos" height="165" width="420"/>
 </p>
 <br>
 
