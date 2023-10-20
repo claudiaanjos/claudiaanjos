@@ -15,7 +15,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 <h3 align="center">Certificações</h3>
 <div align="center">
-    <img src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
+    <img height="130" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
 </div>
 <h3 align="center">Skills</h3>
 <br>
