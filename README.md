@@ -5,7 +5,7 @@
     <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium" target="_blank"></a>
 </div>
 
-### Olá, seja bem-vindo(a)! 
+### 👋 Olá, seja bem-vindo(a)! 
 
 <br>
 
