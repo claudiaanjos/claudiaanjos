@@ -13,9 +13,16 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 </p>
 <br>
 
+<h3 align="center">Portfólio</h3>
+
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados' />
+</div>
+
+<br>
 <h3 align="center">Certificações</h3>
 <div align="center">
-    <img height="130" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
+    <img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" /> </a>
 </div>
 <h3 align="center">Skills</h3>
 <br>
@@ -59,4 +66,6 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
         <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-   nogueira-dos-anjos-093407180/">
     </a>
 </p>
+
+
 
