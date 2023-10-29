@@ -59,7 +59,12 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 ### Certificações
 
-<img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" />
+<p>
+<img height="130" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="130" src="https://cdn.efset.org/efset-widget/img/certificate_73.png" />
+</p>
+
 
 
 
