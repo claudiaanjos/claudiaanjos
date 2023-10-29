@@ -13,11 +13,6 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 </p>
 <br>
 
-<h3 align="center">Portfólio</h3>
-
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados' />
-</div>
 
 <br>
 <h3 align="center">Certificações</h3>
