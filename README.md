@@ -7,6 +7,8 @@
 
 ### Olá, seja bem-vindo(a)! 
 
+<br>
+
 Meu nome é Claudia e sou apaixonada por dados 📈. 
 
 Aqui você encontrará diversos projetos voltados para essa área, incluindo análises exploratórias, modelos de machine learning e visualizações de dados.
@@ -26,9 +28,12 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 <br>
 
-### Certificações
+### GitHub Stats
 
-<img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" />
+<div>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="claudiaanjos" height="165" width="420"/>
+</div>
 
 <br>
 
@@ -52,12 +57,11 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 <br>
 
-### GitHub Stats
+### Certificações
 
-<div>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="claudiaanjos" height="165" width="420"/>
-</div>
+<img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png" />
+
+
 
 
 
