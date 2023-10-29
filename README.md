@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 ### Principais Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=Cursos)](https://github.com/claudiaanjos/Cursos/blob/main/README.md) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados)
 
 <br>
 
