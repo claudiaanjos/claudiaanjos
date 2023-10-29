@@ -60,9 +60,9 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 ### Certificações
 
 <p>
-<a href='https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile'> <img height="130" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png"></a>
+<a href='https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile'> <img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.efset.org/cert/TGL2xx'><img height="130" src="https://cdn.efset.org/efset-widget/img/certificate_73.png"></a>
+<a href='https://www.efset.org/cert/TGL2xx'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/ef-set.jpg"></a>
 </p>
 
 
