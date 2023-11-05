@@ -14,7 +14,7 @@ Aqui você encontrará diversos projetos voltados para essa área, incluindo an�
 
 Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/cursos/tree/main">nesse repositório</a>.
 
-Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> ou no [Medium](https://medium.com/@ndosanjosc).
+Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a>.
 
 Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato! 🤝 
 
