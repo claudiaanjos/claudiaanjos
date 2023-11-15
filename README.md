@@ -28,10 +28,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 ### GitHub Stats
 
-<div>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="claudiaanjos" height="165" width="420"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=claudiaanjos&theme=dracula&hide=contribs&show_icons=true&rank_icon=github" alt="claudiaanjos" height="165" width="420"/>
 
 <br>
 
@@ -62,10 +59,3 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.efset.org/cert/TGL2xx'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/ef-set.jpg"></a>
 </p>
-
-
-
-
-
-
-
