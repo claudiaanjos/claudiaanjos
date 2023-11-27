@@ -59,7 +59,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://coursera.org/share/b1ae5de1b6b1bfaa40ec33a364d14429'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/certificado-google.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.credly.com/badges/a3199f37-db7e-4a63-a6f6-accd150046cd/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/ibm.png"></a>
+<a href='https://www.credly.com/badges/a3199f37-db7e-4a63-a6f6-accd150046cd/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/badge-ibm.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.efset.org/cert/TGL2xx'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/ef-set.jpg"></a>
 </p>
