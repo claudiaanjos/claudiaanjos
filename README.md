@@ -11,7 +11,7 @@ Meu nome é Claudia e sou apaixonada por dados 📈.
 
 Aqui você encontrará diversos projetos voltados para essa área, incluindo análises exploratórias, modelos de machine learning e visualizações de dados.
 
-Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/cursos/tree/main">nesse repositório</a>.
+Tenho participado de bootcamps, treinamentos técnicos e cursos focados na área de dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/cursos/tree/main">nesse repositório</a>.
 
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc).
 
