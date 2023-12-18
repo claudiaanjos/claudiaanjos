@@ -13,6 +13,8 @@ Aqui você encontrará diversos projetos voltados para essa área, incluindo an�
 
 Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/cursos/tree/main">nesse repositório</a>.
 
+Minhas principais certificações são [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile) e [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/8XCJR6DGRLEY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=prof). No momento, estou avançando no processo de obtenção do **IBM Data Analyst Professional Certificate** e **Google Advanced Data Analytics Professional Certificate**.
+
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc).
 
 Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato! 🤝 
