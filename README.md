@@ -57,7 +57,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 <p>
 <a href='https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile'> <img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://coursera.org/share/b1ae5de1b6b1bfaa40ec33a364d14429'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/certificado-google.png"></a>
+<a href='https://www.credly.com/earner/earned/badge/af2d6b0f-0b2a-432e-8dbb-b577eef14152'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/certificado-avancado.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.credly.com/badges/a3199f37-db7e-4a63-a6f6-accd150046cd/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/badge-ibm.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
