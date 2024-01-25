@@ -13,7 +13,7 @@ Aqui você encontrará diversos projetos voltados para essa área, incluindo an�
 
 Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados. Você pode conferir meus cursos <a href="https://github.com/claudiaanjos/cursos/tree/main">nesse repositório</a>.
 
-Minhas principais certificações são [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile), [Google Data Analytics](https://coursera.org/share/b2208db891f7273e57e7236d3b8786da) e [Google Advanced Data Analytics](https://www.credly.com/badges/af2d6b0f-0b2a-432e-8dbb-b577eef14152/public_url). Estou no processo de obtenção do **IBM Data Analyst** e **IBM Data Science Professional Certificate**.
+Minhas principais certificações são [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile), [Google Data Analytics](https://coursera.org/share/b2208db891f7273e57e7236d3b8786da), [Google Advanced Data Analytics](https://coursera.org/share/3b939457e8cd19bb52aa39b3a8c0653f) e [IBM Data Analyst](https://coursera.org/share/373afc05f04dadcf5d80525c5f823b5d). Estou no processo de obtenção do **IBM Data Science Professional Certificate**.
 
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc).
 
@@ -59,7 +59,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.credly.com/badges/af2d6b0f-0b2a-432e-8dbb-b577eef14152/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/certificado-avancado.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.credly.com/badges/a3199f37-db7e-4a63-a6f6-accd150046cd/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/badge-ibm.png"></a>
+<a href='https://www.credly.com/badges/a99b3143-d327-4b89-9c8f-db12080879df/public_url'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/IBMDataAnalyst.png"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href='https://www.efset.org/cert/TGL2xx'><img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/ef-set.jpg"></a>
 </p>
