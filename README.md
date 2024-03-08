@@ -52,7 +52,7 @@ Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou su
 
 <br>
 
-### Certificações
+### Certificações e Certificados
 
 <p>
 <a href='https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile'> <img height="100" src="https://github.com/claudiaanjos/claudiaanjos/blob/main/microsoft-certified-azure-ai-fundamentals%20p.png"></a>
