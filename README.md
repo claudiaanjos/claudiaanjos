@@ -15,9 +15,7 @@ Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados
 
 Minhas principais certificações e certificados são [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile), [Google Data Analytics](https://coursera.org/share/b2208db891f7273e57e7236d3b8786da), [Google Advanced Data Analytics](https://coursera.org/share/3b939457e8cd19bb52aa39b3a8c0653f), [IBM Data Analyst](https://coursera.org/share/373afc05f04dadcf5d80525c5f823b5d) e [IBM Data Science](https://coursera.org/share/bfcbd23578308189da723daebb579f01).
 
-Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades nas áreas de dados e saúde digital. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc).
-
-Sinta-se à vontade para explorar meus projetos e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato! 🤝 
+Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades nas áreas de dados e saúde digital. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc). 
 
 <br>
 
