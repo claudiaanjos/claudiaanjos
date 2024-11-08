@@ -3,7 +3,7 @@
   <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
-### 👋 Olá, seja bem-vindo(a)! 
+### 👋 Olá! 
 
 <br>
 
