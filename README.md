@@ -21,7 +21,7 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
 
 ### Principais Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=cursos)](https://github.com/claudiaanjos/cursos/tree/main) 
 
 <br>
