@@ -31,9 +31,9 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
 
 <br>
 
-### Principais Skills
+<!--### Principais Skills-->
 
-<p>
+<!--<p>
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -47,7 +47,7 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </p>
 
-<br>
+<br>-->
 
 ### Certificações e Certificados
 
