@@ -1,6 +1,5 @@
 <div>
   <a href="https://www.linkedin.com/in/claudia-anjos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@ndosanjosc" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
 ### 👋 Olá! 
@@ -15,13 +14,13 @@ Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados
 
 Minhas principais certificações e certificados são [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/490ea044-4d22-427d-9d1c-5d7f6ee26748?source=linked_in_profile), [Google Data Analytics](https://coursera.org/share/b2208db891f7273e57e7236d3b8786da), [Google Advanced Data Analytics](https://coursera.org/share/3b939457e8cd19bb52aa39b3a8c0653f), [IBM Data Analyst](https://coursera.org/share/373afc05f04dadcf5d80525c5f823b5d) e [IBM Data Science](https://coursera.org/share/bfcbd23578308189da723daebb579f01).
 
-Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades nas áreas de dados e saúde digital. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a> e/ou acessar o [Medium](https://medium.com/@ndosanjosc). 
+Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades nas áreas de dados e saúde digital. Você pode conferir meus projetos <a href="https://github.com/claudiaanjos/projetos-analise-dados">nesse repositório</a>. 
 
 <br>
 
 ### Principais Repositórios
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=projetos-analise-dados)](https://github.com/claudiaanjos/projetos-analise-dados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudiaanjos&theme=dracula&repo=cursos)](https://github.com/claudiaanjos/cursos/tree/main) 
 
 <br>
